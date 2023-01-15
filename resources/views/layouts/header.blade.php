@@ -2,10 +2,10 @@
             <header class="header">
                 <div class="page-brand">
                     <a class="link" href="index.html">
-                        <span class="brand">ims.
-                            <span class="brand-tip">bondstein</span>
+                        <span class="brand">ifix.
+                            <span class="brand-tip">ifix</span>
                         </span>
-                        <span class="brand-mini">ims</span>
+                        <span class="brand-mini">fast</span>
                     </a>
                 </div>
                 <div class="flexbox flex-1">

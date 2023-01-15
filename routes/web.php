@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\QuestionController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -18,3 +19,4 @@ use App\Http\Controllers\DashboardController;
 //     return view('welcome');
 // });
 Route::get('/',[DashboardController::class,'index'])->name('dashboard');
+Route::get('/questionapi',[QuestionController::class,'fetch_questions'])->name('question');
