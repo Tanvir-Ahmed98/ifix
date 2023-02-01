@@ -20,3 +20,5 @@ use App\Http\Controllers\QuestionController;
 // });
 Route::get('/',[DashboardController::class,'index'])->name('dashboard');
 Route::get('/questionapi',[QuestionController::class,'fetch_questions'])->name('question');
+
+

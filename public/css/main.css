@@ -4227,7 +4227,7 @@ a.text-danger:focus {
   display: flex;
   height: 56px;
   position: relative;
-  background-color: #fff;
+  background-color: #FE9331;
   margin: 0;
   border: 0;
   border-radius: 0;
@@ -4882,7 +4882,7 @@ body.has-backdrop .backdrop {
   height: 30px;
   line-height: 30px;
   text-align: center;
-  color: #FFF;
+  color: #000000;
   border: 2px solid #687991;
   border-radius: 50%;
   z-index: 1001;
@@ -4906,7 +4906,7 @@ body.has-backdrop .backdrop {
 }
 
 .page-sidebar {
-  background-color: #253544;
+  background-color: #D9D9D9;
 }
 
 .page-sidebar .admin-block .admin-info {
@@ -4918,46 +4918,46 @@ body.has-backdrop .backdrop {
 }
 
 .side-menu .heading {
-  color: rgba(255, 255, 255, 0.4);
+  color:#000000;
 }
 
 .side-menu > li a {
-  color: #b4bcc8;
+  color: #000000;
 }
 
 .side-menu > li a:hover,
 .side-menu > li a:focus {
-  color: #fff;
-  background-color: #3498db;
+  color: #000000;
+  background-color: #FE9331;
 }
 
 .side-menu > li.active {
-  background-color: #2e4255;
+  background-color: #D9D9D9;
 }
 
 .side-menu > li.active > a,
 .side-menu > li.active > a:hover,
 .side-menu > li.active > a:focus {
-  color: #fff;
-  background-color: #3498db;
+  color: #FE9331;
+  background-color: #D9D9D9;
 }
 
 .side-menu li a.active {
-  color: #fff;
+  color: #000000;
 }
 
 .sidebar-mini .side-menu > li:hover > a {
-  background-color: #3498db;
-  color: #fff;
+  background-color: #D9D9D9;
+  color:#D9D9D9;
 }
 
 .sidebar-mini .side-menu > li:hover .nav-2-level {
-  background-color: #253544;
+  background-color: #000000;
 }
 
 .header .page-brand {
-  color: #fff;
-  background-color: #374f65;
+  color: #000000;
+  background-color: #D9D9D9;
 }
 
 .legendLabel {

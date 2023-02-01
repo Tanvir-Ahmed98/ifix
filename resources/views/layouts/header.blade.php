@@ -1,12 +1,12 @@
             <!-- START HEADER-->
             <header class="header">
                 <div class="page-brand">
-                    <a class="link" href="index.html">
+                    {{-- <a class="link" href="index.html">
                         <span class="brand">ifix.
                             <span class="brand-tip">ifix</span>
                         </span>
                         <span class="brand-mini">fast</span>
-                    </a>
+                    </a> --}}
                 </div>
                 <div class="flexbox flex-1">
                     <!-- START TOP-LEFT TOOLBAR-->
